@@ -8,19 +8,19 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-#Header one
+# Header one
 
-##Header two
+## Header two
 
-###Header three
+### Header three
 
-####Header four
+#### Header four
 
-#####Header 
+##### Header 
 
-######Header six
+###### Header six
 
-####Here's some words about the book _One Hundred Years..._.
+#### Here's some words about the book _One Hundred Years..._.
 
 [Search for it.](https://www.google.com)
 

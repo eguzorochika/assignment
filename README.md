@@ -9,43 +9,39 @@ I **will** complete these lessons!
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 #Header one
+
 ##Header two
+
 ###Header three
+
 ####Header four
-#####Header five
+
+#####Header 
+
 ######Header six
 
 ####Here's some words about the book _One Hundred Years..._.
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
+
 [You're** really, really** going to want to see this.](www.dailykitten.com)
 
-[####The Latest News from the BBC](www.bbc.com/news)
-Do you want to [see something fun][a fun place]?
+[####The Latest News from the BBC](https://www.bbc.com/news)
 
- 
+Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
- 
-
 [a fun place]:www.zombo.com
-[another fun place]: www.stumbleupon.com
-
- 
+[another fun place]: www.stumbleupon.com 
 
 ![a pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
- 
-
 ![Black cat][Black]
-
- 
 
 ![Orange cat][Orange]
 
  
-
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 
  
